@@ -21,8 +21,6 @@ The model is trained on publicly available facial emotion datasets and leverages
 - OpenCV
 - NumPy
 - scikit-learn
-- dlib or mediapipe (for face detection)
-- imutils
 - matplotlib
 
 You can install required libraries using:
